@@ -1,0 +1,51 @@
+tz: America/Chicago
+title: Still Wild Healing
+author: Emily Risinger PLLC
+authorurl: https://emilyrisinger.com
+description: >-
+  Still Wild Healing
+
+host: 0.0.0.0
+open_url: true
+encoding: utf-8
+strict_front_matter: true
+
+exclude:
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+
+plugins:
+  - jekyll-mentions
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jemoji
+
+liquid:
+  error_mode: strict
+  strict_filters: true
+  # Too many exceptions with no clear solutions.
+  # strict_variables: true
+
+kramdown:
+  show_warnings: true
+
+sass:
+  style: compressed
+  sourcemap: development
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      # Way in the future.
+      date: 2111-11-11 00:00:00 -0500
+      layout: article
+      newline: "\n"
+      title: Still Wild Healing
+      intro: Still Wild Healing
