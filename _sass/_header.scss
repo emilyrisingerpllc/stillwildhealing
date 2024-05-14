@@ -165,10 +165,12 @@ body[id],
         &:hover,
         { color: lighten($gray-400, 30%); }
 
-        &#nav-lt,
+        &#nav-w,
         {
           color: $primary;
-          font-family: "Rubik Glitch";
+          display: inline-block;
+          border-radius: 50%;
+          background-color: $main;
           font-size: 2.8125rem;
           vertical-align: top;
 
