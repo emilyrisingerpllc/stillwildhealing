@@ -53,3 +53,5 @@ Breathwork and Mindfulness
 * Please email me if you have any questions!
 
 <div align=center><img src="/assets/img/250x250/bee.jpg" alt="Sleepy Bee"><img src="/assets/img/250x250/tea.jpg" alt="Tea Ceremony"><img src="/assets/img/250x250/moss.jpg" alt="Mossy Rock"></div>
+
+<div align=center><b>Contact me at </b><a href="mailto:emily@emilyrisinger.com">emily@emilyrisinger.com</a></div>
