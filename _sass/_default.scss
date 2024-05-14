@@ -29,7 +29,8 @@ html,
   overflow: hidden scroll;
   scroll-padding-top: 4rem;
   scroll-snap-align: none none;
-  scroll-snap-type: y proximity;
+  //scroll-snap-type: y proximity;
+  scroll-snap-type: none;
 }
 
 @media(prefers-reduced-motion:no-preference) {

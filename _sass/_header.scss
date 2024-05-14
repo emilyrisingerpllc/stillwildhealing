@@ -81,7 +81,8 @@ body[id],
         padding: 0;
         position: relative;
         right: 0rem;
-        scroll-snap-type: y mandatory;
+        //scroll-snap-type: y mandatory;
+        scroll-snap-type: none;
         scrollbar-color: $main $primary;
         text-overflow: ellipsis;
         z-index: 1;
