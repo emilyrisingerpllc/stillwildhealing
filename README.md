@@ -1,6 +1,6 @@
 # Forest Immersion
 
-###### Awaken your Senses Through the Nature and Forest Guiding Experience
+###### Awaken Your Senses through the Nature and Forest Guiding Experience
 
 <img src="/assets/img/750x250/coyote.jpg" align="middle" alt="Coyote Stare" style="display: block; margin: auto;">
 
